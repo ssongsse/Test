@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>�� �׽�Ʈ �غ��ϴ�.</h1>
+<h1>±ê Å×½ºÆ® ÇØº¾´Ï´Ù.</h1>
+<h1>hello World</h1>
 </body>
 </html>
